@@ -4,7 +4,7 @@
 </br>
 Former Engineering Manager & Architect at <a href="https://stuart.com/">Stuart</a> 💻</p>
 
-[![Linkedin: joseignaciohervasdiaz](https://img.shields.io/badge/-joseignaciohervasdiaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseignaciohervasdiaz/)](https://www.linkedin.com/in/joseignaciohervasdiaz/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/joseignaciohervasdiaz/)
 <br/>
 [![GitHub JoseHervas](https://img.shields.io/github/followers/JoseHervas?label=follow&style=social)](https://github.com/JoseHervas)
 
