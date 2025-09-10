@@ -1,4 +1,4 @@
-<h2> Hi, I'm Jose Hervás! 👋</h2>
+<h2> Hi, I'm Jose Hervás! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></h2>
 <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZqcTg5Z2ZlYmV4emxhdmlxbDRham95eGVleTRudzM3Mmh3eXcyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 <p><em>Senior AI Software Engineer at <a href="https://www.barkibu.com/">Barkibu</a> 🤖
 </br>
