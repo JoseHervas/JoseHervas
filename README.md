@@ -1,8 +1,8 @@
 <h2> Hi, I'm Jose Hervás! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></h2>
 <img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZqcTg5Z2ZlYmV4emxhdmlxbDRham95eGVleTRudzM3Mmh3eXcyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
-<p>Senior AI Software Engineer at <a href="https://www.barkibu.com/">Barkibu</a> 🤖
+<p>🤖 Senior AI Software Engineer at <a href="https://www.barkibu.com/">Barkibu</a>
 </br>
-Former Engineering Manager & Architect at <a href="https://stuart.com/">Stuart</a> 💻</p>
+💻 Former Engineering Manager & Architect at <a href="https://stuart.com/">Stuart</a></p>
 
 ![Jose's GitHub stats](https://github-activity-nu.vercel.app/api?username=JoseHervas&show_icons=true&theme=transparent&hide=contribs,issues&rank_icon=percentile&include_all_commits=true)
 <br/><br/>
