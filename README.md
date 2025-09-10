@@ -1,5 +1,5 @@
 <h2> Hi, I'm Jose Hervás! 👋</h2>
-<img style="border-radius:50%" align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZqcTg5Z2ZlYmV4emxhdmlxbDRham95eGVleTRudzM3Mmh3eXcyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
+<img align='right' src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTZqcTg5Z2ZlYmV4emxhdmlxbDRham95eGVleTRudzM3Mmh3eXcyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="230">
 <p><em>Senior AI Software Engineer at <a href="https://www.barkibu.com/">Barkibu</a> 🤖
 </br>
 Former Engineering Manager & Architect at <a href="https://stuart.com/">Stuart</a> 💻</em></p>
@@ -7,7 +7,7 @@ Former Engineering Manager & Architect at <a href="https://stuart.com/">Stuart</
 [![Linkedin: joseignaciohervasdiaz](https://img.shields.io/badge/-joseignaciohervasdiaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joseignaciohervasdiaz/)](https://www.linkedin.com/in/joseignaciohervasdiaz/)
 [![GitHub JoseHervas](https://img.shields.io/github/followers/JoseHervas?label=follow&style=social)](https://github.com/JoseHervas)
 
-
+</br></br>
 ### 🧑‍💻 A little more about me...  
 
 ```javascript
