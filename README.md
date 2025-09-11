@@ -4,8 +4,7 @@
 </br>
 💻 Former Engineering Manager & Architect at <a href="https://stuart.com/">Stuart</a></p>
 
-![Jose's GitHub stats](https://github-activity-nu.vercel.app/api?username=JoseHervas&show_icons=true&theme=transparent&hide=contribs,issues&rank_icon=percentile&include_all_commits=true&cache_seconds=60)
-<br/><br/>
+<br/><br/><br/><br/>
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/joseignaciohervasdiaz/)
 [![GitHub JoseHervas](https://img.shields.io/github/followers/JoseHervas?label=follow&style=social)](https://github.com/JoseHervas)
 
