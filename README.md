@@ -10,16 +10,16 @@
 
 ### 🧑‍💻 A little more about me...  
 
-```javascript
-const jose = {
-  code: ["Python", "TypeScript", "Go", "Node.js"],
-  tools: ["LangChain", "LangGraph", "LangSmith", "Redis", "Kafka", "Kubernetes", "AWS", "Docker"],
-  architecture: ["multi-agent systems", "RAG", "microservices", "cloud-native", "event-driven"],
-  experience: {
-    current: "Building a multi-agent (+16 agents) AI platform at Barkibu",
-    previous: "Led architecture and engineering teams at Stuart"
-  },
-  challenge: "Pushing the limits of reasoning in AI agents with plan-then-act techniques"
+```python
+jose = {
+    "code": ["Python", "TypeScript", "Go", "Node.js"],
+    "tools": ["LangChain", "LangGraph", "LangSmith", "Redis", "Kafka", "Kubernetes", "AWS", "Docker"],
+    "architecture": ["multi-agent systems", "RAG", "microservices", "cloud-native", "event-driven"],
+    "experience": {
+        "current": "Building a multi-agent (+16 agents) AI platform at Barkibu",
+        "previous": "Led architecture and engineering teams at Stuart"
+    },
+    "challenge": "Pushing the limits of reasoning in AI agents with plan-then-act techniques"
 }
 ```
 
