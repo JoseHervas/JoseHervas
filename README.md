@@ -27,9 +27,13 @@ jose = {
 
 <p align="left">
   <a href="https://github.com/JoseHervas/darkstories">
-    <img align="center" src="https://github-activity-nu.vercel.app/api/pin/?username=JoseHervas&repo=darkstories&cache_seconds=60" />
+    <img height=150 align="center" src="https://github-activity-nu.vercel.app/api/pin/?username=JoseHervas&repo=darkstories&cache_seconds=60" />
+  </a>
+    <a href="https://github.com/JoseHervas/dependabatch">
+    <img height=120 align="center" src="https://github-activity-nu.vercel.app/api/pin/?username=JoseHervas&repo=dependabatch&cache_seconds=60" />
   </a>
 </p>
+
 
 🤝 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
