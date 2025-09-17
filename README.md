@@ -27,7 +27,7 @@ jose = {
 
 <p align="left">
   <a href="https://github.com/JoseHervas/darkstories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JoseHervas&repo=darkstories&cache_seconds=60" />
+    <img align="center" src="https://github-activity-nu.vercel.app/api/pin/?username=JoseHervas&repo=darkstories&cache_seconds=60" />
   </a>
 </p>
 
