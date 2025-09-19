@@ -30,7 +30,7 @@ jose = {
     <img height=150 align="center" src="https://github-activity-nu.vercel.app/api/pin/?username=JoseHervas&repo=darkstories&cache_seconds=60" />
   </a>
     <a href="https://github.com/JoseHervas/dependabatch">
-    <img height=120 align="center" src="https://github-activity-nu.vercel.app/api/pin/?username=JoseHervas&repo=dependabatch&cache_seconds=60" />
+    <img height=120 align="center" src="https://github-activity-nu.vercel.app/api/pin/?username=JoseHervas&repo=prodcheck&cache_seconds=60" />
   </a>
 </p>
 
